@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EmpWage
+{
+    internal class UC3
+    {
+        public int PartTimeWage()
+        {
+            int partTimeHours = 8;
+            int wagePerHour = 20;
+            int n = partTimeHours * wagePerHour;
+            return n;
+        }
+
+    }
+}
+

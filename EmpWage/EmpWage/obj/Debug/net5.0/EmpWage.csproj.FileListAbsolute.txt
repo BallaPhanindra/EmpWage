@@ -1,0 +1,16 @@
+D:\BridgeLabz\EmpWage\EmpWage\EmpWage\obj\Debug\net5.0\EmpWage.csproj.AssemblyReference.cache
+D:\BridgeLabz\EmpWage\EmpWage\EmpWage\obj\Debug\net5.0\EmpWage.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz\EmpWage\EmpWage\EmpWage\obj\Debug\net5.0\EmpWage.AssemblyInfoInputs.cache
+D:\BridgeLabz\EmpWage\EmpWage\EmpWage\obj\Debug\net5.0\EmpWage.AssemblyInfo.cs
+D:\BridgeLabz\EmpWage\EmpWage\EmpWage\obj\Debug\net5.0\EmpWage.csproj.CoreCompileInputs.cache
+D:\BridgeLabz\EmpWage\EmpWage\EmpWage\bin\Debug\net5.0\EmpWage.exe
+D:\BridgeLabz\EmpWage\EmpWage\EmpWage\bin\Debug\net5.0\EmpWage.deps.json
+D:\BridgeLabz\EmpWage\EmpWage\EmpWage\bin\Debug\net5.0\EmpWage.runtimeconfig.json
+D:\BridgeLabz\EmpWage\EmpWage\EmpWage\bin\Debug\net5.0\EmpWage.runtimeconfig.dev.json
+D:\BridgeLabz\EmpWage\EmpWage\EmpWage\bin\Debug\net5.0\EmpWage.dll
+D:\BridgeLabz\EmpWage\EmpWage\EmpWage\bin\Debug\net5.0\EmpWage.pdb
+D:\BridgeLabz\EmpWage\EmpWage\EmpWage\obj\Debug\net5.0\EmpWage.dll
+D:\BridgeLabz\EmpWage\EmpWage\EmpWage\obj\Debug\net5.0\refint\EmpWage.dll
+D:\BridgeLabz\EmpWage\EmpWage\EmpWage\obj\Debug\net5.0\EmpWage.pdb
+D:\BridgeLabz\EmpWage\EmpWage\EmpWage\obj\Debug\net5.0\EmpWage.genruntimeconfig.cache
+D:\BridgeLabz\EmpWage\EmpWage\EmpWage\obj\Debug\net5.0\ref\EmpWage.dll
