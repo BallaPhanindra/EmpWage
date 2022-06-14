@@ -6,7 +6,6 @@ namespace EmpWageProj
     {
         static void Main(string[] args)
         {
-           
             Console.WriteLine("Welcome to Employee Wage Computation program on master branch");
             Console.WriteLine("========UC1=======");
             UC1 u1 = new UC1();
@@ -27,8 +26,6 @@ namespace EmpWageProj
             Console.WriteLine("========UC6=======");
             UC6 u6 = new UC6();
             u6.WagePerMonthOrDays();
-
-            Console.WriteLine("Checking for revert command");
         }
     }
 }
